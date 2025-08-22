@@ -28,22 +28,13 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 My Pinned Projects
 
-### **BusBuddy**
-- 🚌 Bus tracking application built with Flutter & Firebase  
-- 🌍 Features: Real-time bus tracking, OpenStreetMap integration, travel points payment via Stripe  
-- 🔗 [View Project](#)
+## 📂 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=BusBuddy&theme=radical)](https://github.com/siphesihlemadi/BusBuddy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=HabitTracker&theme=radical)](https://github.com/siphesihlemadi/HabitTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=QuizApp&theme=radical)](https://github.com/siphesihlemadi/QuizApp)
 
-### **Habit Tracker**
-- 📆 Android app to track habits  
-- 🧑‍💻 Features: User database, add/verify users, track progress  
-- 🔗 [View Project](#)
-
-### **Quiz App**
-- ❓ Comprehensive Android quiz application  
-- 🏆 Features: Multiple difficulty levels, SQLite database for questions and scores  
-- 🔗 [View Project](#)
 
 ---
 
@@ -59,8 +50,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=siphesihlemadi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siphesihlemadi&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
