@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Java & Kotlin developer exploring backend development, Android apps, and desktop applications 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -32,18 +32,29 @@
 
 ## 📂 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=BusBuddy&theme=radical)](https://github.com/siphesihlemadi/BusBuddy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=HabitTracker&theme=radical)](https://github.com/siphesihlemadi/HabitTracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=QuizApp&theme=radical)](https://github.com/siphesihlemadi/QuizApp)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=Habit-Tracker&theme=radical)](https://github.com/siphesihlemadi/Habit-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=Password-Manager&theme=radical)](https://github.com/siphesihlemadi/Password-Manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siphesihlemadi&repo=Secure-Authentication&theme=radical)](https://github.com/siphesihlemadi/Secure-Authentication)
 
 ---
 
+## 🧑‍💻 Skills Radar
+
+![Java](https://img.shields.io/badge/Java-80%25-orange?style=for-the-badge&logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-70%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-50%25-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-50%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-60%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-30%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+
+---
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!---<a href="#"><img alt="Website" src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white"></a>-->
+  <a href="www.linkedin.com/in/siphesihle-madi-483b53273"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <!--<a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>-->
+  <a href="mailto:siphesihlemadi18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
